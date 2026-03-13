@@ -29,3 +29,5 @@ Validato:
 in attesa
 
 ![images](https://github.com/user-attachments/assets/094491ef-7c82-41b1-816d-785e0ca26b1f)
+
+business model: freemium
