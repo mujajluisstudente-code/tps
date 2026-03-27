@@ -186,7 +186,71 @@ USER STORY:
 
 TABELLA BENCHMARKING:
 
+### Confronto con le principali app di benessere mentale
 
+| Funzionalità | MindTrack | Headspace | Calm | Moodpath | Daylio | Finch |
+|--------------|-----------|-----------|------|----------|--------|-------|
+| **Prezzo** | Freemium | €69,99/anno | €59,99/anno | €59,99/anno | €35,99/anno | Freemium |
+| **Tracciamento umore** | ✅ Giornaliero con scale 1-5 | ❌ | ❌ | ✅ Giornaliero | ✅ Personalizzabile | ✅ Umore + attività |
+| **Tracciamento sonno** | ✅ Qualità + ore | ❌ | ✅ Sleep stories | ❌ | ✅ Opzionale | ✅ Opzionale |
+| **Tracciamento attività fisica** | ✅ Integrato | ❌ | ❌ | ❌ | ✅ Opzionale | ✅ Opzionale |
+| **Tracciamento socialità** | ✅ Interazioni sociali | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Consigli AI personalizzati** | ✅ Basati su dati utente | ❌ Contenuti statici | ❌ Contenuti statici | ❌ Report statici | ❌ Solo statistiche | ❌ Gamification |
+| **Mindfulness guidata** | ✅ Sessioni 3-10 min | ✅ Eccellente | ✅ Eccellente | ✅ Limitata | ❌ | ✅ Base |
+| **Tecniche di respirazione** | ✅ Multiple tecniche | ✅ Base | ✅ Base | ✅ Base | ❌ | ✅ Base |
+| **Journaling guidato** | ✅ Con suggerimenti AI | ❌ | ❌ | ✅ Base | ✅ Base | ✅ Base |
+| **Analisi trend** | ✅ Avanzata con correlazioni | ❌ | ❌ | ✅ Base | ✅ Base | ✅ Limitata |
+| **Obiettivi personalizzati** | ✅ Con monitoraggio | ✅ Streaks | ✅ Streaks | ❌ | ✅ Obiettivi | ✅ Quest |
+| **Report settimanali** | ✅ Automatici | ❌ | ❌ | ✅ | ✅ | ✅ |
+| **Notifiche intelligenti** | ✅ Basate su pattern | ❌ Fisse | ❌ Fisse | ❌ Fisse | ❌ Fisse | ✅ Base |
+| **Gamification** | ✅ Streaks e badge | ✅ Streaks | ✅ Streaks | ❌ | ✅ Streaks | ✅ Eccellente |
+| **Esportazione dati** | ✅ CSV/PDF | ❌ | ❌ | ✅ | ✅ CSV | ❌ |
+| **Onboarding guidato** | ✅ Personalizzato | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+---
+
+### 🎯 Punti di Forza di MindTrack (Vantaggi Competitivi)
+
+| # | Vantaggio | Descrizione |
+|---|-----------|-------------|
+| 1 | **Consigli AI personalizzati** | Unica app che adatta i suggerimenti in tempo reale basandosi su pattern comportamentali dell'utente |
+| 2 | **Tracciamento olistico** | Combina sonno, attività fisica, socialità e umore - nessun competitor copre tutti e 4 gli aspetti |
+| 3 | **Journaling con AI** | Suggerimenti di scrittura dinamici basati sull'umore registrato |
+| 4 | **Notifiche intelligenti** | Promemoria adattivi che imparano quando l'utente è più recettivo |
+| 5 | **Modello freemium accessibile** | Funzionalità base gratuite con upgrade per AI avanzata (più accessibile di Headspace/Calm) |
+
+---
+
+### 📈 Posizionamento nel Mercato
+
+| Categoria | Posizionamento MindTrack |
+|-----------|--------------------------|
+| **Prezzo** | Freemium (entry-level accessibile) |
+| **Complessità** | Media (più completo di Daylio, meno complesso di app cliniche) |
+| **Target principale** | Studenti e lavoratori con stress moderato/ansia |
+| **Differenziatore unico** | AI che connette abitudini quotidiane a consigli pratici |
+| **Competitor diretto** | Finch (gamification) + Daylio (tracking) + Headspace (mindfulness) |
+
+---
+
+### 🚀 Opportunità di Mercato
+
+| Opportunità | Descrizione |
+|-------------|-------------|
+| **Spazio bianco** | Nessuna app combina tracking olistico + AI predittiva + mindfulness integrata |
+| **Crescita mercato** | Mercato digitale benessere mentale in crescita del 25% annuo |
+| **Generazione Z** | Alta sensibilità a salute mentale, familiarità con app e AI |
+| **Post-pandemia** | Aumento domanda strumenti auto-gestione stress e ansia |
+
+---
+
+### ⚠️ Minacce e Svantaggi
+
+| Minaccia | Descrizione | Mitigazione |
+|----------|-------------|-------------|
+| **Concorrenza consolidata** | Headspace e Calm hanno budget marketing elevati | Differenziarsi su AI e tracking olistico |
+| **Barriera all'adozione** | Tracciamento quotidiano richiede costanza | Gamification e onboarding guidato |
+| **Privacy dati sensibili** | Dati di salute mentale sono molto personali | Crittografia end-to-end e trasparenza |
 
 sito web:
 
