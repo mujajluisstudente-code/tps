@@ -28,8 +28,6 @@ Timestamp:
 Validato:
 in attesa
 
-![images](https://github.com/user-attachments/assets/094491ef-7c82-41b1-816d-785e0ca26b1f)
-
 business model: freemium
 sito web:
 <img width="1702" height="766" alt="image" src="https://github.com/user-attachments/assets/bb227c3c-d0ce-458c-9263-ec9740a22b06" />
