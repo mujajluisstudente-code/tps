@@ -31,7 +31,7 @@ in attesa
 business model: freemium
 
 UML:
-<img width="1013" height="854" alt="image" src="https://github.com/user-attachments/assets/e1cb5777-b667-4a26-ac7c-c00102e89474" />
+<img width="849" height="867" alt="image" src="https://github.com/user-attachments/assets/c59c8c71-3ab9-474a-9172-168fd2e97020" />
 
 
 
