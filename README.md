@@ -30,6 +30,13 @@ in attesa
 
 business model: freemium
 
+ELEVATOR PITCH:
+Luis Mujaj, fondatore di Mind Track.
+Stiamo innovando il mondo del benessere mentale combinando intelligenza artificiale e dati quotidiani per offrire un supporto davvero personalizzato. Mind Track analizza sonno, attività, umore e interazioni sociali per trasformarli in consigli pratici, esercizi di mindfulness, tecniche di respirazione e sessioni di journaling guidato.
+Il nostro obiettivo è aiutare studenti e lavoratori a gestire stress, ansia e concentrazione nella vita di tutti i giorni, migliorando produttività e qualità della vita. La nostra visione è semplice ma potente: permettere alle persone di conoscersi meglio e migliorare ogni giorno, grazie alla tecnologia.
+Con una solida base tecnologica e un focus sull’esperienza utente, Mind Track è pronta a diventare un punto di riferimento nel benessere mentale digitale.
+
+
 UML:
 
 <img width="849" height="867" alt="image" src="https://github.com/user-attachments/assets/c59c8c71-3ab9-474a-9172-168fd2e97020" />
